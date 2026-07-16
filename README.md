@@ -21,7 +21,7 @@
 1. **[Введение](/chapters/intro.md)**
 2. **[Начало с Event Sourcing](/chapters/Starting-with-Event-Sourcing.md)**
 
-**Часть 1: [Основы](/chapters/1-The-Basics/0-The-Basics.md)**
+**Часть 1: [Основы](/chapters/1-The-Basics/The-Basics.md)**
 
 3. **[Событийно-ориентированный дизайн](/chapters/1-The-Basics/Event-Driven-Design.md)**
 4. **[Шина событий (Event Bus)](/chapters/1-The-Basics/The-Event-Bus.md)**
