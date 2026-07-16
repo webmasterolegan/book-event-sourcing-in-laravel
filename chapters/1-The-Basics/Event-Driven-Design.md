@@ -178,4 +178,3 @@ class CheckoutCart
 ---
 
 [Далее: Шина событий (Event Bus)](/chapters/1-The-Basics/The-Event-Bus.md)
-

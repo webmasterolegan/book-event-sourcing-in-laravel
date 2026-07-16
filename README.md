@@ -33,7 +33,7 @@
 10. **[Реакторы (Reactors)](/chapters/1-The-Basics/Reactors.md)**
 11. **[Корни агрегатов (Aggregate Roots)](/chapters/1-The-Basics/Aggregate-Roots.md)**
 
-**Часть 2: Продвинутые паттерны**
+**Часть 2: [Продвинутые паттерны](/chapters/2-Advanced-Patterns/Advanced-Patterns.md)**
 
 12. **[Управление состоянием в корнях агрегатов](/chapters/2-Advanced-Patterns/State-Management-in-Aggregate-Roots.md)**
 13. **[Части агрегатов (Aggregate Partials)](/chapters/2-Advanced-Patterns/Multi-Entity-Aggregate-Roots.md)**
@@ -42,12 +42,12 @@
 16. **[CQRS](/chapters/2-Advanced-Patterns/CQRS.md)**
 17. **[Саги (Sagas)](/chapters/2-Advanced-Patterns/Sagas.md)**
 
-**Часть 3: Проблемы Event Sourcing**
+**Часть 3: [Проблемы Event Sourcing](/chapters/3-Challenges-with-Event-Sourcing/Challenges-with-Event-Sourcing.md)**
 
-18. Версионирование событий
-19. Снимки (Snapshotting)
-20. Микросервисы
-21. Частичный Event Sourcing
-22. Стратегии развертывания
-23. Заметки о Event Storming
-24. Детали, заслуживающие упоминания
+18. **[Версионирование событий](/chapters/3-Challenges-with-Event-Sourcing/Event-Versioning.md)**
+19. **[Снимки (Snapshotting)](/chapters/3-Challenges-with-Event-Sourcing/Snapshotting.md)**
+20. **[Микросервисы](/chapters/3-Challenges-with-Event-Sourcing/Microservices.md)**
+21. **[Частичный Event Sourcing](/chapters/3-Challenges-with-Event-Sourcing/Partial-Event-Sourcing.md)**
+22. **[Стратегии развертывания](/chapters/3-Challenges-with-Event-Sourcing/Deployment-Strategies.md)**
+23. **[Заметки о Event Storming](/chapters/3-Challenges-with-Event-Sourcing/Notes-on-Event-Storming.md)**
+24. **[Детали, заслуживающие упоминания](/chapters/3-Challenges-with-Event-Sourcing/Details-worth-noting.md)**

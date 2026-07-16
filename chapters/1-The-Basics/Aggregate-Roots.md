@@ -348,4 +348,4 @@ public function test_add_item(): void
 
 ---
 
-[Далее: ](/chapters)
+[Далее: Продвинутые паттерны](/chapters/2-Advanced-Patterns/Advanced-Patterns.md)

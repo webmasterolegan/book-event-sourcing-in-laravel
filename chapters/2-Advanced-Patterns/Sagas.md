@@ -64,4 +64,4 @@ class OrderCompletedReactor extends Reactor
 
 ---
 
-[Далее: ](/chapters)
+[Далее: ](/chapters/3-Challenges-with-Event-Sourcing/Challenges-with-Event-Sourcing.md)
