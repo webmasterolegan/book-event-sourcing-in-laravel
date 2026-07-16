@@ -1,4 +1,4 @@
-[назад](/chapters/1-The-Basics/The-Basics.md)
+[назад](/chapters/1-The-Basics/Event-Driven-Design.md)
 
 ---
 
@@ -54,4 +54,4 @@ class EventBus
 
 ---
 
-[Далее: События (Events)](chapters/1-The-Basics/Events.md)
+[Далее: События (Events)](/chapters/1-The-Basics/Events.md)
