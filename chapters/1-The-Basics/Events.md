@@ -115,4 +115,4 @@ class CheckoutCartProjector
 
 ---
 
-[Далее: Моделирование мира](chapters/1-The-Basics/Modelling-the-World.md)
+[Далее: Моделирование мира](/chapters/1-The-Basics/Modelling-the-World.md)
