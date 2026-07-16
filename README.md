@@ -27,7 +27,7 @@
 4. **[Шина событий (Event Bus)](/chapters/1-The-Basics/The-Event-Bus.md)**
 5. **[События (Events)](/chapters/1-The-Basics/Events.md)**
 6. **[Моделирование мира](/chapters/1-The-Basics/Modelling-the-World.md)**
-7. **[Хранение и проектирование событий](/chapters/1-The-Basics/Storing-and-Projecting-Events.md)**
+7. **[Хранение и проецирование событий](/chapters/1-The-Basics/Storing-and-Projecting-Events.md)**
 8. **[Проекторы (Projectors) в деталях](/chapters/1-The-Basics/Projectors-in-Depth.md)**
 9. **[Событийные запросы (Event Queries)](/chapters/1-The-Basics/Event-Queries.md)**
 10. **[Реакторы (Reactors)](/chapters/1-The-Basics/Reactors.md)**
